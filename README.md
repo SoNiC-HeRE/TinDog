@@ -4,4 +4,4 @@ A product based Website made using
   <li>Bootstrap5</li>
   </ul>
 
-Live Preview: https://sonic-here.github.io/TinDog/
+Live Preview: https://tindognew.netlify.app/
